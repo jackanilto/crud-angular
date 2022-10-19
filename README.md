@@ -1,3 +1,4 @@
+
 # Crud Angular
 
 Este projeto foi gerado com [Angular CLI](https://github.com/angular/angular-cli) version 14.2.6.
