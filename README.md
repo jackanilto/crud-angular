@@ -9,7 +9,7 @@ Run `ng serve` para um servidor dev. Navegar para `http://localhost:4200/`. O ap
 
 ## Code scaffolding
 
-Run `ng generate component component-name` ou 'ng g c-name'para gerar um novo componente. Você também pode usar `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+Run `ng generate component component-name` ou `ng g c-name` para gerar um novo componente. Você também pode usar `ng generate directive|pipe|service|class|guard|interface|enum|module`.
 
 ## Build
 
